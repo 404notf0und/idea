@@ -30,3 +30,10 @@
 - [ ] idea：attention机制在安全领域是否有效及适用于解决哪些/类安全问题 2020/02/17
 - [ ] action
 - [ ] result
+
+## 复现一篇AI模型代码
+
+- [ ] origin：attention机制的tensorflow实现和keras实现 2020/02/26
+- [ ] idea：提升代码能力和写tensorflow原生语言复现模型 2020/02/26
+- [ ] action：找一篇已有人复现代码的相关论文
+- [ ] result：提升用代码复现模型的能力
