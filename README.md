@@ -44,4 +44,6 @@
 - [x] idea：稳定、持续、优质、外文资源
 - [x] action：单篇优质外文文章主站
 - [x] result
-  - [hackernoon](https://hackernoon.com/)
+  - [hackernoon](https://hackernoon.com/)（包括AI和安全的全栈技术站点）
+  - [riskbasedsecurity](https://www.riskbasedsecurity.com/)（安全厂商）
+  - [tripwire](https://www.tripwire.com/state-of-security)（安全厂商的技术博客）
